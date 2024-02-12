@@ -1,0 +1,25 @@
+.pdt-slider .thumbs-wrapper{
+    display: none;
+}
+
+.pdt-slider .control-dots{
+    display: none;
+}
+
+.pdt-slider .carousel.carousel-slider .control-arrow {
+    background: black !important
+}
+
+.pdt-slider .carousel.carousel-slider .control-arrow {
+    top: 0;
+    /* color: #fff; */
+    font-size: 26px;
+    bottom: 0;
+    margin-top: 34%;
+    padding: 5px;
+    height: 20%;
+}
+
+.MuiBox-root .carousel-root {
+    width: 62%;
+}
